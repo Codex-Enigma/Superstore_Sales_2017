@@ -7,6 +7,9 @@ To visualize and analyze the sales performance of Superstore in 2017, focusing o
 - Tableau (for dashboard creation)
 - Superstore Dataset (from Kaggle)
 
+## 🔗 Live Dashboard
+[📈 View on Tableau Public](https://public.tableau.com/app/profile/pranay.mody/viz/SuperstoreSales2017_17221881319360/Dashboard)
+
 ## 📈 Key Visualizations
 - Region-wise and State-wise Sales Trends
 - Category and Sub-Category Analysis
